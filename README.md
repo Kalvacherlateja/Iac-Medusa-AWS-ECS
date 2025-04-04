@@ -21,7 +21,7 @@ Configure security groups and VPC settings to ensure secure access to AWS resour
 linkedin
 
 Authors
-@GurkaSathish
+kalvacherlateja
 Pre-Requisites
 AWS account (user)
 
@@ -31,7 +31,6 @@ Linux
 
 GitHub repository with the necessary secrets configured." AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, AWS_ACCOUNT_ID, ECR_REPOSITORY_NAME, DB_PASSWORD, ECS_CLUSTER_NAME ECS_SERVICE_NAME, ECR_REPOSITORY_NAME, TASK_FAMILY"
 Project Structure
-Devops-Internship-1.6/
 ├── main.tf           # Terraform configuration
 ├── variables.tf      # Variables for Terraform
 ├── outputs.tf        # Output values for Terraform
@@ -106,9 +105,9 @@ YAML (for configuration files in GitHub Action
 Contact
 For any inquiries or issues related to this project, please reach out via email:
 
-Author: Gurka Sathish
+Author: Kalvacherlateja
 
-Email: sathishgurka@gmail.com
+Email:kalvacherla@teja 
 
 Result
 Successfully streamlined the CI/CD of Medusa-backend using GitHub Actions , Elastc Container Registry(ECR) and Elastic Container Service (ECS)
